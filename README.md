@@ -47,4 +47,4 @@ public class Compare {
 ![image](https://github.com/Karthikeyan21001828/Java_EX02/assets/93427303/bee1d856-6f14-4232-9d3f-c6943ad06e41)
 
 ## RESULT:
-A java program to compare two numbers.
+A java program to compare two numbers has been executed successfully.
